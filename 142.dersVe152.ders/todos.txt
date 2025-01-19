@@ -1,5 +1,8 @@
-buy a house
-Master Python
-Fix the Errors
-buy grocery
+Buy a houseMaster Python
+debug the errors
+buy plants
 clean the house
+new line
+move abroad
+meet John
+pay the bills
